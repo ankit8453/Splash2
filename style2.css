@@ -27,6 +27,7 @@
         border: none;
         font-size:large;
         font-weight: 600;
+        cursor: pointer;
     }    
     input{
         background-color: rgba(188,171,235,255);
